@@ -170,6 +170,14 @@ Shuichi Kawashima, Piotr Pokarowski, Maria Pokarowska, Andrzej Kolinski, Toshiak
 *Nucleic Acids Research, January 2008.*  
 [[10.1093/nar/gkm998](https://doi.org/10.1093/nar/gkm998)] 
 
+
+**Leveraging implicit knowledge in neural networks for functional dissection and engineering of proteins**
+Julius Upmeier zu Belzen, Thore Bürgel, Stefan Holderbach, Felix Bubeck, Lukas Adam, Catharina Gandor, Marita Klein, Jan Mathony, Pauline Pfuderer, Lukas Platz, Moritz Przybilla, Max Schwendemann, Daniel Heid, Mareike Daniela Hoffmann, Michael Jendrusch, Carolin Schmelas, Max Waldhauer, Irina Lehmann, Dominik Niopek & Roland Eils
+*Nature Machine Intelligence, May 2019*
+[(https://www.nature.com/articles/s42256-019-0049-9#author-information)] 
+
+
+
 ### Unsupervised variant prediction
 **Deep generative models of genetic variation capture the effects of mutations.**
 Adam J Riesselman, John B Ingraham, Debora S. Marks   
@@ -231,6 +239,9 @@ Alex T. Müller, Jan A. Hiss, and Gisbert Schneider.
 Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak  
 *Preprint, December 2017*  
 [[arxiv](https://arxiv.org/abs/1712.03346)]
+
+
+
 
 ### Predicting stability
 
